@@ -1,4 +1,4 @@
-local serjao=require("serjao_berranteiro/serjao_berranteiro")
+local serjao=require("../serjao_berranteiro/serjao_berranteiro")
 
 set_server.single_process=true
 
